@@ -1,20 +1,24 @@
-# Student Marks & Grade Management System
+## Student-Marks-Grade-Management
 
 ## Description
-This is a C program that allows the user to input marks for 5 subjects. It then calculates the total marks, average, and assigns a grade based on the average.
-
-## Features
-- Takes input of marks for 5 subjects
-- Calculates:
-  - Total marks
-  - Average marks
-  - Grade (A/B/C/D/Fail)
-- Uses functions for clean code
-- Uses if-else ladder for grade logic
+This is a C program to calculate total , average and grade of five subjects.
 
 ## Grading Scale
-- A: 90 and above
-- B: 80 - 89
-- C: 70 - 79
-- D: 60 - 69
-- Fail: Below 60
+A: 90 and above
+B: 75 - 89
+C: 60 - 74
+D: 50 - 59
+Fail: Below 49
+
+## How to Run the Program
+
+Using Visual Studio Code:
+Create a folder and open it in Visual Studio Code.
+Inside the folder, create a file named main.c.
+Write the C code into main.c.
+Ensure that GCC is installed and Code Runner extension is available in VS Code.
+Right-click on the code editor and select "Run Code", or press Ctrl + Alt + N.
+The output will be displayed in the Output terminal at the bottom.
+
+## Author
+Khushal Misal
